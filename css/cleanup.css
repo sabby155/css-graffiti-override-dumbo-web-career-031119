@@ -16,6 +16,6 @@
 /*  display: none;*/
 /*}*/
 
-img[background-image] {
-  
+img[baseURI|="tag"] {
+  display:none;
 }

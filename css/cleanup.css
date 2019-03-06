@@ -1,9 +1,6 @@
 /* write your override styles here */
 
-/*#wall div[class*="ta"] {*/
-/*  display: none;*/
-/*}*/
-
-.parent ~ #wall{
+#wall div[class*="ta"] {
   display: none;
 }
+

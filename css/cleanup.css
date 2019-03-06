@@ -4,6 +4,6 @@
 /*  display: none;*/
 /*}*/
 
-div ~ #wall{
+.parent ~ #wall{
   display: none;
 }

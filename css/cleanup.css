@@ -13,7 +13,7 @@
 /*  display: none;*/
 /*}*/
 
-#wall div[class*="tag"] {
+#wall div[id*="tag"] {
   display:none;
 }
 

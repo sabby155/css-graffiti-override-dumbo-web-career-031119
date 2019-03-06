@@ -1,6 +1,6 @@
 /* write your override styles here */
 
-#wall div[class*="ta"] {
+#wall div[class="tag"] {
   display: none;
 }
 

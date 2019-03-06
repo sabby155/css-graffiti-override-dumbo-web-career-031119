@@ -4,6 +4,6 @@
   display: none;
 }
 
-div[*] {
+div[*.parent] {
   display: none;
 }

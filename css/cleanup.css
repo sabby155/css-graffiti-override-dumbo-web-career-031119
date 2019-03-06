@@ -13,7 +13,7 @@
 /*  display: none;*/
 /*}*/
 
-div[id*="tag"] {
+div[class*="tag"] {
   display:none;
 }
 

@@ -7,7 +7,7 @@
 #wall div#tag-2 {
   display: none;
 }
-#wall div#tag-3."slick~wicked"{
+div[class^="slick"]{
   display: none;
 }
 

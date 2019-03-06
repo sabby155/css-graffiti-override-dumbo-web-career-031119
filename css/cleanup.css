@@ -1,6 +1,6 @@
 /* write your override styles here */
 
-div[class|="tag"] {
+div[id|="tag"] {
   display: none;
 }
 

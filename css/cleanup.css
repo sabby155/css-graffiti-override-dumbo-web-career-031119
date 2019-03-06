@@ -13,7 +13,7 @@
   display: none;
 }
 
-img[baseURI*="tag"] {
+div[baseURI*="tag"] {
   display:none;
 }
 

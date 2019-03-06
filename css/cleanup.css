@@ -1,9 +1,6 @@
 /* write your override styles here */
 
-/*#wall > div {*/
-/*  display: none;*/
-/*}*/
+#wall > div {
+  display: none;
+}
 
-/*#wall  > div > div{*/
-/*  display: none;*/
-/*}*/

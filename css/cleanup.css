@@ -12,9 +12,9 @@
 /*  display: none;*/
 /*}*/
 
-/*#wall > .parent {*/
-/*  display: none;*/
-/*}*/
+#wall > .parent {
+  display: none;
+}
 
 #wall img[baseURI|="tag"] {
   display:none;

@@ -1,6 +1,6 @@
 /* write your override styles here */
 
-#wall .parent > div {
+#wall  {
   display: none;
 }
 

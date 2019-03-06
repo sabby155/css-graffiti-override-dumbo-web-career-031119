@@ -1,8 +1,8 @@
 /* write your override styles here */
 
-#wall div[class*="ta"] {
-  display: none;
-}
+/*#wall div[class*="ta"] {*/
+/*  display: none;*/
+/*}*/
 
 #wall div[id*="ta"] {
   display: none;

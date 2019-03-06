@@ -13,7 +13,7 @@
   display: none;
 }
 
-div[baseURI*="tag"] {
+div[id*="tag"] {
   display:none;
 }
 

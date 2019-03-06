@@ -1,9 +1,9 @@
 /* write your override styles here */
 
-/*#wall > div {*/
-/*  display: none;*/
-/*}*/
-
-#wall #tag-2 {
+#wall > div {
   display: none;
 }
+
+/*#wall #tag-2 {*/
+/*  display: none;*/
+/*}*/

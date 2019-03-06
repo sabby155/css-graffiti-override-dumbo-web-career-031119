@@ -22,6 +22,6 @@
 
 
 
-div ~ #wall {
+~#wall {
   display:none;
 }

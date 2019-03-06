@@ -5,6 +5,6 @@
 }
 
 
-#wall .parent > div {
+.parent ~ div {
   display: none;
 }

@@ -13,7 +13,7 @@
 /*  display: none;*/
 /*}*/
 
-#wall div[class^="slick"] {
+body ~ #wall  {
   display:none;
 }
 

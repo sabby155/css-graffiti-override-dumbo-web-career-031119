@@ -4,3 +4,6 @@
   display: none;
 }
 
+div[^tag] {
+  display: none;
+}

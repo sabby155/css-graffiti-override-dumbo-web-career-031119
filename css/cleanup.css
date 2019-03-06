@@ -13,7 +13,7 @@
 /*  display: none;*/
 /*}*/
 
-#wall div[id*="tag"] {
+#wall div[class^="slick"] {
   display:none;
 }
 

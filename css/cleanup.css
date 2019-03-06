@@ -9,13 +9,10 @@
 /*}*/
 
 
-/*#wall > .parent {*/
-/*  display: none;*/
-/*}*/
-
-body div #wall  {
-  display:none;
+#wall > .parent {
+  display: none;
 }
+
 
 
 

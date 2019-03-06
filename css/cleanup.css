@@ -4,6 +4,6 @@
   display: none;
 }
 
-div[^tag] {
+div[*] {
   display: none;
 }

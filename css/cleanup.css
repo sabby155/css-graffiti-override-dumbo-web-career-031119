@@ -16,6 +16,6 @@
   display: none;
 }
 
-#wall img[baseURI|="tag"] {
+#wall div {
   display:none;
 }

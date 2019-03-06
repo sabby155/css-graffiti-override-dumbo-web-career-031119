@@ -13,7 +13,9 @@
   display: none;
 }
 
-img[baseURI]
+img[baseURI^="tag"] {
+  display:none;
+}
 
 
 
